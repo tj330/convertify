@@ -1,0 +1,74 @@
+[
+ {
+  "Abbreviation": "Jan.",
+  "Name": "January",
+  "Numeric": "1",
+  "Numeric-2": "01"
+ },
+ {
+  "Abbreviation": "Feb.",
+  "Name": "Feburary",
+  "Numeric": "2",
+  "Numeric-2": "02"
+ },
+ {
+  "Abbreviation": "Mar.",
+  "Name": "March",
+  "Numeric": "3",
+  "Numeric-2": "03"
+ },
+ {
+  "Abbreviation": "Apr.",
+  "Name": "April",
+  "Numeric": "4",
+  "Numeric-2": "04"
+ },
+ {
+  "Abbreviation": "May",
+  "Name": "May",
+  "Numeric": "5",
+  "Numeric-2": "05"
+ },
+ {
+  "Abbreviation": "June",
+  "Name": "June",
+  "Numeric": "6",
+  "Numeric-2": "06"
+ },
+ {
+  "Abbreviation": "July",
+  "Name": "July",
+  "Numeric": "7",
+  "Numeric-2": "07"
+ },
+ {
+  "Abbreviation": "Aug.",
+  "Name": "August",
+  "Numeric": "8",
+  "Numeric-2": "08"
+ },
+ {
+  "Abbreviation": "Sept.",
+  "Name": "September",
+  "Numeric": "9",
+  "Numeric-2": "09"
+ },
+ {
+  "Abbreviation": "Oct.",
+  "Name": "October",
+  "Numeric": "10",
+  "Numeric-2": "10"
+ },
+ {
+  "Abbreviation": "Nov.",
+  "Name": "November",
+  "Numeric": "11",
+  "Numeric-2": "11"
+ },
+ {
+  "Abbreviation": "Dec.",
+  "Name": "December",
+  "Numeric": "12",
+  "Numeric-2": "12"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "HEX": "#FFFFFF",
+  "RGB": "rgb(100,100,100)",
+  "﻿Name": "White"
+ },
+ {
+  "HEX": "#C0C0C0",
+  "RGB": "rgb(75,75,75)",
+  "﻿Name": "Silver"
+ },
+ {
+  "HEX": "#808080",
+  "RGB": "rgb(50,50,50)",
+  "﻿Name": "Gray"
+ },
+ {
+  "HEX": "#000000",
+  "RGB": "rgb(0,0,0)",
+  "﻿Name": "Black"
+ },
+ {
+  "HEX": "#FF0000",
+  "RGB": "rgb(100,0,0)",
+  "﻿Name": "Red"
+ },
+ {
+  "HEX": "#800000",
+  "RGB": "rgb(50,0,0)",
+  "﻿Name": "Maroon"
+ },
+ {
+  "HEX": "#FFFF00",
+  "RGB": "rgb(100,100,0)",
+  "﻿Name": "Yellow"
+ },
+ {
+  "HEX": "#808000",
+  "RGB": "rgb(50,50,0)",
+  "﻿Name": "Olive"
+ },
+ {
+  "HEX": "#00FF00",
+  "RGB": "rgb(0,100,0)",
+  "﻿Name": "Lime"
+ },
+ {
+  "HEX": "#008000",
+  "RGB": "rgb(0,50,0)",
+  "﻿Name": "Green"
+ },
+ {
+  "HEX": "#00FFFF",
+  "RGB": "rgb(0,100,100)",
+  "﻿Name": "Aqua"
+ },
+ {
+  "HEX": "#008080",
+  "RGB": "rgb(0,50,50)",
+  "﻿Name": "Teal"
+ },
+ {
+  "HEX": "#0000FF",
+  "RGB": "rgb(0,0,100)",
+  "﻿Name": "Blue"
+ },
+ {
+  "HEX": "#000080",
+  "RGB": "rgb(0,0,50)",
+  "﻿Name": "Navy"
+ },
+ {
+  "HEX": "#FF00FF",
+  "RGB": "rgb(100,0,100)",
+  "﻿Name": "Fuchsia"
+ },
+ {
+  "HEX": "#800080",
+  "RGB": "rgb(50,0,50)",
+  "﻿Name": "Purple"
+ }
+]
