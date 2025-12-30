@@ -2,3 +2,5 @@ github.com/tj330/csvtojson v0.0.0-20251222195628-b10ccfe9704d h1:7CQEikLW31KBeU9
 github.com/tj330/csvtojson v0.0.0-20251222195628-b10ccfe9704d/go.mod h1:idtmrVCXV32GRSVQEfxei0aLoJ423WkcJNPZBOwL28I=
 github.com/tj330/csvtojson v0.0.0-20251225105643-216a60450c39 h1:ssqvVfLaV+T/o4Y8Cenex98v99HY2T7jNJm3HXLIALQ=
 github.com/tj330/csvtojson v0.0.0-20251225105643-216a60450c39/go.mod h1:idtmrVCXV32GRSVQEfxei0aLoJ423WkcJNPZBOwL28I=
+github.com/tj330/csvtojson v0.0.0-20251230130749-bafc042c2da7 h1:8RBOLll4bb8oVGEc8HDH114gtEwfGQeLzmyPc43CMtg=
+github.com/tj330/csvtojson v0.0.0-20251230130749-bafc042c2da7/go.mod h1:bbenzzwFLJZrOZaNoEy5eJvuebjOz0ksGlyC010RO/Q=
